@@ -1,3 +1,3 @@
 # REDES2019-part2
 
-Open tree develop ... 
+open branch develop
